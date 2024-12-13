@@ -70,7 +70,7 @@ Publish the website in the LocalHost.
         }
         .booktitle{
             font-family: 'Courier New', Courier, monospace;
-            font-size: larger;
+            font-size: medium;
             text-align: center;
             position: relative;
             top: 30px;
@@ -123,13 +123,14 @@ Publish the website in the LocalHost.
                 <hr style="color:red;">
             </div>
             <div class="booktitle">
-                <h1>INNER ENGINEERING</h1>
+                <h1>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</h1>
             </div>
             <div class="subtitle">
+
                 Finding the source of your happiness
             </div>
             <div class="mypic">
-                <img src="C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-12-05 205159.png" width="150" height="145" alt="">
+                <img src="C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-12-13 235338.png" width="140" height="150" alt="">
             </div>
             <div class="id">
                 <hr style="color: rgb(0, 17, 255);">
@@ -146,9 +147,11 @@ Publish the website in the LocalHost.
         </div>
     </body>
 </html>
+               
 ```
 # OUTPUT:
-![Screenshot 2024-12-13 231245](https://github.com/user-attachments/assets/40244c5d-51ed-48f6-805e-aebbc68adc37)
+![Screenshot 2024-12-14 000515](https://github.com/user-attachments/assets/0f4dcbe6-0f87-4d1b-b0fe-a4cb1fba8a6c)
+
 
 NAME : BHAVANASI CHARAN REDDY
 
